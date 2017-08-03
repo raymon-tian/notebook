@@ -17,6 +17,8 @@
 * anaconda
 * cuda + cudnn
 * caffe
+* okular pdf阅读器
 ## 开发编辑工具
 * pycharm
 * anaconda
+* 
