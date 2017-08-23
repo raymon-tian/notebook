@@ -59,10 +59,16 @@ NAME
 
 FILE
     /home/wd/anaconda2/lib/python2.7/site-packages/torch/tensor.py
-    ```
+```
     
-    
-    
-    
-    
-    
+##  pytorch数据迭代器
+*  ``` python
+if __name__ == '__main__':
+    tc_dataset = tianchiDataset(phase="train")
+    train_data_loader = DataLoader(tc_dataset,batch_size=1,shuffle=True)  
+    for i,(img,rois,im_info) in enumerate(train_data_loader):# 和Dataset.__getitem__的返回结果相比，增加了一个维度，batch_size
+        img_np = img.numpy()
+        rois_np = rois.numpy()
+        print(rois_np.shape)
+        im_info = im_info.numpy()
+  ``` 
