@@ -89,6 +89,7 @@
 
 * https://zhuanlan.zhihu.com/p/25063314
 * https://zhuanlan.zhihu.com/p/24709748
+* https://zhuanlan.zhihu.com/p/27523007
 * matrix cookbook
 
 
