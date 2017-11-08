@@ -1,0 +1,50 @@
+1710.09282.pdf
+CVPR2016_Wu_Quantized_Convolutional_Neural_CVPR_2016_paper.pdf
+CVPR2017_On Compressing Deep Models by Low Rank and Sparse Decomposition.pdf
+ICCV2017_He_Channel_Pruning_for_ICCV_2017_paper.pdf
+ICCV2017_Huang_Centered_Weight_Normalization_ICCV_2017_paper.pdf
+ICCV2017_Li_Performance_Guaranteed_Network_ICCV_2017_paper.pdf
+ICCV2017_Luo_ThiNet_A_Filter_ICCV_2017_paper.pdf
+ICCV2017_Masana_Domain-Adaptive_Deep_Network_ICCV_2017_paper.pdf
+ICCV2017_Wen_Coordinating_Filters_for_ICCV_2017_paper.pdf
+ICCV2017_Xie_Genetic_CNN_ICCV_2017_paper.pdf
+ICLR2015_Compressing Deep Convolutional Networks using Vector Quantization.pdf
+ICLR2015-Flattened Convolutional Neural Networks for Feedforward Acceleration.pdf
+ICLR2015-SPEEDING-UP CONVOLUTIONAL NEURAL NETWORKS.pdf
+ICLR2016-BlackOut: Speeding up Recurrent Neural Network Language Models With Very Large Vocabularies.pdf
+ICLR2016-BLACKOUT: SPEEDING UP RECURRENT NEURAL NETWORK.pdf
+ICLR2016-Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications.pdf
+ICLR2016-Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding.pdf
+ICLR2016-Net2Net: Accelerating Learning via Knowledge Transfer.pdf
+ICLR2017-DeepRebirth: A General Approach for Accelerating Deep Neural Network Execution on Mobile Devices.pdf
+ICLR2017-FastText.zip: Compressing text classification models.pdf
+ICLR2017-HFH: Homologically Functional Hashing for Compressing Deep Neural Networks.pdf
+ICLR2017-Introspection:Accelerating Neural Network Training By Learning Weight Evolution.pdf
+ICLR2017_PRUNING FILTERS FOR EFFICIENT CONVNETS.pdf
+ICLR2017-SOFTWARE–HARDWARE CODESIGN.pdf
+ICLR2017-SOFT WEIGHT-SHARING FOR.pdf
+ICLR2017-Tartan: Accelerating Fully-Connected and Convolutional Layers in Deep Learning Networks by Exploiting Numerical Precision Variability.pdf
+ICLR2017-TOWARDS THE LIMIT OF NETWORK QUANTIZATION.pdf
+ICLR2017_TRAINED TERNARY QUANTIZATION.pdf
+ICLR2017-TRAINING COMPRESSED FULLY-CONNECTED NETWORKS.pdf
+ICLR2017-workshop-Accelerating Eulerian Fluid Simulation With Convolutional Networks .pdf
+ICLR2017-workshop-Accelerating SGD for Distributed Deep-Learning Using an Approximted Hessian Matrix.pdf
+ICLR2017-workshop-A CONTEXTUAL DISCRETIZATION FRAMEWORK FOR.pdf
+ICML2015_Compressing Neural Networks with the Hashing Trick.pdf
+ICML2017_Accelerating Eulerian Fluid Simulation With Convolutional Networks.pdf
+ICML2017_“Convex Until Proven Guilty”: Dimension-Free Acceleration of Gradient Descent on Non-Convex Functions.pdf
+ICML2017_Dissipativity Theory for Nesterov’s Accelerated Method.pdf
+ICML2017_Sparsified Back Propagation for Accelerated Deep Learning.pdf
+IJCAL2017_Diverse Neuron Type Selection for Convolutional Neural Networks.pdf
+NIPS2013-accelerated-mini-batch-stochastic-dual-coordinate-ascent.pdf
+NIPS2013-accelerating-stochastic-gradient-descent-using-predictive-variance-reduction.pdf
+NIPS2014-a-differential-equation-for-modeling-nesterovs-accelerated-gradient-method-theory-and-insights.pdf
+NIPS2014-towards-conceptual-compression.pdf
+NIPS2014_workshop_Distilling the Knowledge in a Neural Network.pdf
+NIPS2015-a-differential-equation-for-modeling-nesterovs-accelerated-gradient-method-theory-and-insights.pdf
+NIPS2015-stochastic-proximal-gradient-descent-with-acceleration-techniques.pdf
+NIPS2016-perforatedcnns-acceleration-through-elimination-of-redundant-convolutions.pdf
+NIPS2016-phased-lstm-accelerating-recurrent-network-training-for-long-or-event-based-sequences.pdf
+NIPS2016-weight-normalization-a-simple-reparameterization-to-accelerate-training-of-deep-neural-networks.pdf
+NIPS2016-workshop-ESE: Efficient Speech Recognition Engine.pdf
+papers.txt

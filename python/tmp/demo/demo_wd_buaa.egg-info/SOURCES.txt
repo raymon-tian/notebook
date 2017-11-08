@@ -1,0 +1,6 @@
+setup.py
+demo_wd_buaa.egg-info/PKG-INFO
+demo_wd_buaa.egg-info/SOURCES.txt
+demo_wd_buaa.egg-info/dependency_links.txt
+demo_wd_buaa.egg-info/top_level.txt
+my_test_pack/__init__.py
